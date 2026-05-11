@@ -28,7 +28,7 @@
 ✔ **Frontend:** HTML5, CSS3, React, Tailwind CSS, TypeScript  
 ✔ **Backend & DB:** Supabase, SQLite, MySQL, MongoDB (Intro)  
 ✔ **Tools:** VS Code, Git, GitHub, Vercel, Postman(learning)  
-✔ **Other:** Responsive Design, SEO Basics, PWA, REST APIs, EDA
+✔ **Other:** Responsive Design, SEO Basics, EDA
 
 ---
 
