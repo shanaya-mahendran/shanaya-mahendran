@@ -1,6 +1,6 @@
 # Hi 👋, I'm Deepthi Paul Mahendran
 
-**Undergraduate in Software Engineering | Intern Software Engineer**
+**Undergraduate in Software Engineering | Aspiring Software Engineer**
 
 - 🔭 I’m currently working on **full-stack web apps & AI/ML projects**
 - 🌱 I’m currently learning **server-side development, API design, and machine learning**
@@ -17,7 +17,7 @@
 🔹 Passionate about building user-centered solutions and clean, responsive web apps.  
 🔹 Currently pursuing **BSc in Computer Science (UoPeople)** & **BIT (University of Moratuwa)**.  
 🔹 Hands-on intern experience in database management, Agile workflows, and front-end development.  
-🔹 Constantly learning through certifications (AI/ML, API testing, web dev) and real-world projects.  
+🔹 Constantly learning through certifications (AI/ML, API testing, web dev) and real-world projects through Open Source Contribution of SSoC'26
 🔹 Love turning ideas into functional, delightful digital experiences.
 
 ---
