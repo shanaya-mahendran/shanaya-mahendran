@@ -24,7 +24,7 @@
 
 ## 💡 Skills & Technologies
 
-✔ **Programming Languages:** Python, JavaScript, SQL, PHP (Basics)  
+✔ **Programming Languages:** Python, JavaScript, Java(Basics), SQL, PHP (Basics)  
 ✔ **Frontend:** HTML5, CSS3, React, Tailwind CSS, TypeScript  
 ✔ **Backend & DB:** Supabase, SQLite, MySQL, MongoDB (Intro)  
 ✔ **Tools:** VS Code, Git, GitHub, Vercel, Postman(learning)  
