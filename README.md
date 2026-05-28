@@ -84,7 +84,7 @@ Python, Pandas, Seaborn, Matplotlib – feature engineering, imputation pipeline
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
