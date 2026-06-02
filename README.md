@@ -78,9 +78,10 @@ Python, Pandas, Seaborn, Matplotlib – feature engineering, imputation pipeline
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepthimahendran81@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](example.com)
 
+<!--- 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepthi-mahendran&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔝 Top Contributed Repo>
+![](https://github-contributor-stats.vercel.app/api?username=deepthi-mahendran&limit=5&theme=dark&combine_all_yearly_contributions=true) --->
 
 ---
 
