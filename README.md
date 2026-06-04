@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepthi Paul Mahendran
+# Hi 👋, I'm Deepthi Mahendran
 
 **Undergraduate in Software Engineering | Aspiring Software Engineer**
 
