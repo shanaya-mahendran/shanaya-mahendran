@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepthi-mahendran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
+<!--- 
 ## 📌 Featured Projects
 
 🔹 **[Study Hub – Academic Mastery Planner](https://study-hub-2026.vercel.app/)**  
@@ -68,7 +68,7 @@ Python, Pandas, Seaborn, Matplotlib – feature engineering, imputation pipeline
 - Front-End Web Development – UoM  
 - Cybersecurity Basics – AT&T  
 - Network Technician Career Path – Cisco
-
+--->
 ---
 
 ## 📫 Connect With Me
