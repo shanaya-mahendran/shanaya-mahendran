@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uRJJzqg9V9rbq48fP2vZruSDP2Iq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uRJJzqg9V9rbq48fP2vZruSDP2Iq2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 # Hi 👋, I'm Deepthi Mahendran
 
 **Undergraduate in Software Engineering | Aspiring Software Engineer**
