@@ -1,5 +1,3 @@
-<a href="https://gitroll.io/profile/uRJJzqg9V9rbq48fP2vZruSDP2Iq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uRJJzqg9V9rbq48fP2vZruSDP2Iq2?theme=dark" alt="GitRoll Profile Badge"/></a>
-
 # Hi 👋, I'm Deepthi Mahendran
 
 **Undergraduate in Software Engineering | Aspiring Software Engineer**
@@ -78,7 +76,7 @@ Python, Pandas, Seaborn, Matplotlib – feature engineering, imputation pipeline
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-m081/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepthi-aiml)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepthimahendran81@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https//deepthi-mahendran.vercel.app)
 
 <!--- 
 ---
