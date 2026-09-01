@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepthi Mahendran
+# Hi 👋, I'm Shanaya Mahendran
 
 **Undergraduate in Software Engineering | Aspiring Software Engineer**
 
@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **open-source front-end or data science projects**
 - 🤝 I’m looking for help with **advanced backend architecture**
 - 💬 Ask me about **React, Python, UI/UX, or SQLite**
-- 📫 How to reach me: **deepthimahendran81@gmail.com**
+- 📫 How to reach me: **Shanyamahendran.lk@outlook.com**
 - ⚡ Fun fact: **I won a gold medal in Full Contact Karate (18–21 category) 🥋**
 
 ---
@@ -73,10 +73,10 @@ Python, Pandas, Seaborn, Matplotlib – feature engineering, imputation pipeline
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-m081/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanaya-mahendran/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepthi-aiml)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepthimahendran81@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepthi-mahendran.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanayamahendran.lk@outlook.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shanaya-paul.vercel.app)
 
 <!--- 
 ---
