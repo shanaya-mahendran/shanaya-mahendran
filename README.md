@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - Passionate about building user-centered solutions and clean, responsive web apps.  
-- Currently pursuing **BSc in Computer Science (UoPeople)** & **BIT (University of Moratuwa)**.  
+- Currently pursuing **BSc in Computer Science (UoPeople)** & **BSc. IT (University of Moratuwa)**.  
 - Hands-on intern experience in database management, Agile workflows, and front-end development.  
 - Constantly learning through certifications (AI/ML, API testing, web dev) and real-world projects through Open Source Contribution of SSoC'26
 - Love turning ideas into functional, delightful digital experiences.
